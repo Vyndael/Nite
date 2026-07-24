@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-192656-pofn",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "dateStart": "2026-07-23T23:26:56.000Z",
+      "dateEnd": "2026-07-23T23:48:07.000Z",
+      "dateLabel": "7/23/2026, 7:26:56 PM - 7/23/2026, 7:48:07 PM",
+      "url": "https://Vyndael.github.io/Nite/?report=20260723-192656-pofn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 99,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260721-200515-h3d2",
       "title": "Get Mesmorized",
       "commanders": [
