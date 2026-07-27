@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-203031-akoa",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "dateStart": "2026-07-27T00:30:31.000Z",
+      "dateEnd": "2026-07-27T00:56:03.000Z",
+      "dateLabel": "7/26/2026, 8:30:31 PM - 7/26/2026, 8:56:03 PM",
+      "url": "https://Vyndael.github.io/Nite/?report=20260726-203031-akoa",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 36,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260723-192656-pofn",
       "title": "Get Mesmorized",
       "commanders": [
