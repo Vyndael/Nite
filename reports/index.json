@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-204434-mm36",
+      "title": "Osprey Shark",
+      "commanders": [
+        "Osprey Shark"
+      ],
+      "dateStart": "2026-07-29T00:44:34.000Z",
+      "dateEnd": "2026-07-29T01:46:19.000Z",
+      "dateLabel": "7/28/2026, 8:44:34 PM - 7/28/2026, 9:46:19 PM",
+      "url": "https://Vyndael.github.io/Nite/?report=20260728-204434-mm36",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260728-204434-atdj",
       "title": "Osprey Shark",
       "commanders": [
