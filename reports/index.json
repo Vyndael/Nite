@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-202133-ibkc",
+      "title": "Osprey Shark",
+      "commanders": [
+        "Osprey Shark"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-08-10T00:21:33.000Z",
+      "dateEnd": "2026-08-10T01:02:38.000Z",
+      "dateLabel": "8/9/2026, 8:21:33 PM - 8/9/2026, 9:02:38 PM",
+      "url": "https://Vyndael.github.io/Nite/?report=20260809-202133-ibkc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 24,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260809-202133-zv2q",
       "title": "Osprey Shark",
       "commanders": [
