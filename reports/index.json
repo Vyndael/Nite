@@ -1,328 +1,300 @@
-{
-  "colorPalette": "electric-blue",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260823-195808-m8e7",
-      "title": "Get Mesmorized",
-      "commanders": [
-        "Get Mesmorized"
-      ],
-      "guild": {
-        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
-        "name": "Lurk In Absolute Darkness",
-        "tag": "Nite"
-      },
-      "dateStart": "2026-08-23T23:58:08.000Z",
-      "dateEnd": "2026-08-24T00:26:21.000Z",
-      "dateLabel": "8/23/2026, 7:58:08 PM - 8/23/2026, 8:26:21 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260823-195808-m8e7",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 56,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 33,
-        "avgEnemySize": 28
-      }
+[
+  {
+    "id": "20260823-195808-m8e7",
+    "title": "Get Mesmorized",
+    "commanders": [
+      "Get Mesmorized"
+    ],
+    "guild": {
+      "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+      "name": "Lurk In Absolute Darkness",
+      "tag": "Nite"
     },
-    {
-      "id": "20260811-201814-42i6",
-      "title": "Osprey Shark",
-      "commanders": [
-        "Osprey Shark"
+    "dateStart": "2026-08-23T23:58:08.000Z",
+    "dateEnd": "2026-08-24T00:26:21.000Z",
+    "dateLabel": "8/23/2026, 7:58:08 PM - 8/23/2026, 8:26:21 PM",
+    "url": "https://Vyndael.github.io/Nite/?report=20260823-195808-m8e7",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 56,
+          "color": "#ffffff"
+        }
       ],
-      "guild": {
-        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
-        "name": "Lurk In Absolute Darkness",
-        "tag": "Nite"
-      },
-      "dateStart": "2026-08-12T00:18:14.000Z",
-      "dateEnd": "2026-08-12T01:29:02.000Z",
-      "dateLabel": "8/11/2026, 8:18:14 PM - 8/11/2026, 9:29:02 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260811-201814-42i6",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 21,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 28,
-        "avgEnemySize": 10
-      }
-    },
-    {
-      "id": "20260809-202133-ibkc",
-      "title": "Osprey Shark",
-      "commanders": [
-        "Osprey Shark"
-      ],
-      "guild": {
-        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
-        "name": "Lurk In Absolute Darkness",
-        "tag": "Nite"
-      },
-      "dateStart": "2026-08-10T00:21:33.000Z",
-      "dateEnd": "2026-08-10T01:02:38.000Z",
-      "dateLabel": "8/9/2026, 8:21:33 PM - 8/9/2026, 9:02:38 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260809-202133-ibkc",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 24,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 15
-      }
-    },
-    {
-      "id": "20260809-202133-zv2q",
-      "title": "Osprey Shark",
-      "commanders": [
-        "Osprey Shark"
-      ],
-      "guild": {
-        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
-        "name": "Lurk In Absolute Darkness",
-        "tag": "Nite"
-      },
-      "dateStart": "2026-08-10T00:21:33.000Z",
-      "dateEnd": "2026-08-10T01:02:38.000Z",
-      "dateLabel": "8/9/2026, 8:21:33 PM - 8/9/2026, 9:02:38 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260809-202133-zv2q",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 24,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 15
-      }
-    },
-    {
-      "id": "20260808-200441-7j8z",
-      "title": "Osprey Shark",
-      "commanders": [
-        "Osprey Shark"
-      ],
-      "guild": {
-        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
-        "name": "Lurk In Absolute Darkness",
-        "tag": "Nite"
-      },
-      "dateStart": "2026-08-09T00:04:41.000Z",
-      "dateEnd": "2026-08-09T00:52:54.000Z",
-      "dateLabel": "8/8/2026, 8:04:41 PM - 8/8/2026, 8:52:54 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260808-200441-7j8z",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 45,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 17
-      }
-    },
-    {
-      "id": "20260804-201606-0htj",
-      "title": "Get Mesmorized",
-      "commanders": [
-        "Get Mesmorized"
-      ],
-      "guild": {
-        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
-        "name": "Lurk In Absolute Darkness",
-        "tag": "Nite"
-      },
-      "dateStart": "2026-08-05T00:16:06.000Z",
-      "dateEnd": "2026-08-05T01:18:04.000Z",
-      "dateLabel": "8/4/2026, 8:16:06 PM - 8/4/2026, 9:18:04 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260804-201606-0htj",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 28,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 8,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 36,
-        "avgEnemySize": 21
-      }
-    },
-    {
-      "id": "20260728-204434-mm36",
-      "title": "Osprey Shark",
-      "commanders": [
-        "Osprey Shark"
-      ],
-      "dateStart": "2026-07-29T00:44:34.000Z",
-      "dateEnd": "2026-07-29T01:46:19.000Z",
-      "dateLabel": "7/28/2026, 8:44:34 PM - 7/28/2026, 9:46:19 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260728-204434-mm36",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 14,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260728-204434-atdj",
-      "title": "Osprey Shark",
-      "commanders": [
-        "Osprey Shark"
-      ],
-      "dateStart": "2026-07-29T00:44:34.000Z",
-      "dateEnd": "2026-07-29T01:45:38.000Z",
-      "dateLabel": "7/28/2026, 8:44:34 PM - 7/28/2026, 9:45:38 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260728-204434-atdj",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 14,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260726-203031-akoa",
-      "title": "Get Mesmorized",
-      "commanders": [
-        "Get Mesmorized"
-      ],
-      "dateStart": "2026-07-27T00:30:31.000Z",
-      "dateEnd": "2026-07-27T00:56:03.000Z",
-      "dateLabel": "7/26/2026, 8:30:31 PM - 7/26/2026, 8:56:03 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260726-203031-akoa",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 36,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 12
-      }
-    },
-    {
-      "id": "20260723-192656-pofn",
-      "title": "Get Mesmorized",
-      "commanders": [
-        "Get Mesmorized"
-      ],
-      "dateStart": "2026-07-23T23:26:56.000Z",
-      "dateEnd": "2026-07-23T23:48:07.000Z",
-      "dateLabel": "7/23/2026, 7:26:56 PM - 7/23/2026, 7:48:07 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260723-192656-pofn",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 99,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 28,
-        "avgEnemySize": 23
-      }
-    },
-    {
-      "id": "20260721-200515-h3d2",
-      "title": "Get Mesmorized",
-      "commanders": [
-        "Get Mesmorized"
-      ],
-      "dateStart": "2026-07-22T00:05:15.000Z",
-      "dateEnd": "2026-07-22T00:51:07.000Z",
-      "dateLabel": "7/21/2026, 8:05:15 PM - 7/21/2026, 8:51:07 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260721-200515-h3d2",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 36,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 36,
-        "avgEnemySize": 33
-      }
-    },
-    {
-      "id": "20260721-200515-i9c4",
-      "title": "Get Mesmorized",
-      "commanders": [
-        "Get Mesmorized"
-      ],
-      "dateStart": "2026-07-22T00:05:15.000Z",
-      "dateEnd": "2026-07-22T00:51:07.000Z",
-      "dateLabel": "7/21/2026, 8:05:15 PM - 7/21/2026, 8:51:07 PM",
-      "url": "https://Vyndael.github.io/Nite/?report=20260721-200515-i9c4",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 36,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 36,
-        "avgEnemySize": 33
-      }
+      "avgSquadSize": 33,
+      "avgEnemySize": 28
     }
-  ]
-}
+  },
+  {
+    "id": "20260811-201814-42i6",
+    "title": "Osprey Shark",
+    "commanders": [
+      "Osprey Shark"
+    ],
+    "guild": {
+      "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+      "name": "Lurk In Absolute Darkness",
+      "tag": "Nite"
+    },
+    "dateStart": "2026-08-12T00:18:14.000Z",
+    "dateEnd": "2026-08-12T01:29:02.000Z",
+    "dateLabel": "8/11/2026, 8:18:14 PM - 8/11/2026, 9:29:02 PM",
+    "url": "https://Vyndael.github.io/Nite/?report=20260811-201814-42i6",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 21,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 10
+    }
+  },
+  {
+    "id": "20260809-202133-ibkc",
+    "title": "Osprey Shark",
+    "commanders": [
+      "Osprey Shark"
+    ],
+    "guild": {
+      "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+      "name": "Lurk In Absolute Darkness",
+      "tag": "Nite"
+    },
+    "dateStart": "2026-08-10T00:21:33.000Z",
+    "dateEnd": "2026-08-10T01:02:38.000Z",
+    "dateLabel": "8/9/2026, 8:21:33 PM - 8/9/2026, 9:02:38 PM",
+    "url": "https://Vyndael.github.io/Nite/?report=20260809-202133-ibkc",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 24,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 15
+    }
+  },
+  {
+    "id": "20260809-202133-zv2q",
+    "title": "Osprey Shark",
+    "commanders": [
+      "Osprey Shark"
+    ],
+    "guild": {
+      "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+      "name": "Lurk In Absolute Darkness",
+      "tag": "Nite"
+    },
+    "dateStart": "2026-08-10T00:21:33.000Z",
+    "dateEnd": "2026-08-10T01:02:38.000Z",
+    "dateLabel": "8/9/2026, 8:21:33 PM - 8/9/2026, 9:02:38 PM",
+    "url": "https://Vyndael.github.io/Nite/?report=20260809-202133-zv2q",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 24,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 15
+    }
+  },
+  {
+    "id": "20260808-200441-7j8z",
+    "title": "Osprey Shark",
+    "commanders": [
+      "Osprey Shark"
+    ],
+    "guild": {
+      "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+      "name": "Lurk In Absolute Darkness",
+      "tag": "Nite"
+    },
+    "dateStart": "2026-08-09T00:04:41.000Z",
+    "dateEnd": "2026-08-09T00:52:54.000Z",
+    "dateLabel": "8/8/2026, 8:04:41 PM - 8/8/2026, 8:52:54 PM",
+    "url": "https://Vyndael.github.io/Nite/?report=20260808-200441-7j8z",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 45,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 17
+    }
+  },
+  {
+    "id": "20260804-201606-0htj",
+    "title": "Get Mesmorized",
+    "commanders": [
+      "Get Mesmorized"
+    ],
+    "guild": {
+      "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+      "name": "Lurk In Absolute Darkness",
+      "tag": "Nite"
+    },
+    "dateStart": "2026-08-05T00:16:06.000Z",
+    "dateEnd": "2026-08-05T01:18:04.000Z",
+    "dateLabel": "8/4/2026, 8:16:06 PM - 8/4/2026, 9:18:04 PM",
+    "url": "https://Vyndael.github.io/Nite/?report=20260804-201606-0htj",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 28,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 8,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 21
+    }
+  },
+  {
+    "id": "20260728-204434-mm36",
+    "title": "Osprey Shark",
+    "commanders": [
+      "Osprey Shark"
+    ],
+    "dateStart": "2026-07-29T00:44:34.000Z",
+    "dateEnd": "2026-07-29T01:46:19.000Z",
+    "dateLabel": "7/28/2026, 8:44:34 PM - 7/28/2026, 9:46:19 PM",
+    "url": "https://Vyndael.github.io/Nite/?report=20260728-204434-mm36",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 14,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260728-204434-atdj",
+    "title": "Osprey Shark",
+    "commanders": [
+      "Osprey Shark"
+    ],
+    "dateStart": "2026-07-29T00:44:34.000Z",
+    "dateEnd": "2026-07-29T01:45:38.000Z",
+    "dateLabel": "7/28/2026, 8:44:34 PM - 7/28/2026, 9:45:38 PM",
+    "url": "https://Vyndael.github.io/Nite/?report=20260728-204434-atdj",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 14,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260726-203031-akoa",
+    "title": "Get Mesmorized",
+    "commanders": [
+      "Get Mesmorized"
+    ],
+    "dateStart": "2026-07-27T00:30:31.000Z",
+    "dateEnd": "2026-07-27T00:56:03.000Z",
+    "dateLabel": "7/26/2026, 8:30:31 PM - 7/26/2026, 8:56:03 PM",
+    "url": "https://Vyndael.github.io/Nite/?report=20260726-203031-akoa",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 36,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 12
+    }
+  },
+  {
+    "id": "20260723-192656-pofn",
+    "title": "Get Mesmorized",
+    "commanders": [
+      "Get Mesmorized"
+    ],
+    "dateStart": "2026-07-23T23:26:56.000Z",
+    "dateEnd": "2026-07-23T23:48:07.000Z",
+    "dateLabel": "7/23/2026, 7:26:56 PM - 7/23/2026, 7:48:07 PM",
+    "url": "https://Vyndael.github.io/Nite/?report=20260723-192656-pofn",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 99,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 23
+    }
+  },
+  {
+    "id": "20260721-200515-h3d2",
+    "title": "Get Mesmorized",
+    "commanders": [
+      "Get Mesmorized"
+    ],
+    "dateStart": "2026-07-22T00:05:15.000Z",
+    "dateEnd": "2026-07-22T00:51:07.000Z",
+    "dateLabel": "7/21/2026, 8:05:15 PM - 7/21/2026, 8:51:07 PM",
+    "url": "https://Vyndael.github.io/Nite/?report=20260721-200515-h3d2",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 36,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 33
+    }
+  }
+]
