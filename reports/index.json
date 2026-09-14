@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260913-200914-u2py",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-09-14T00:09:14.000Z",
+      "dateEnd": "2026-09-14T00:41:34.774Z",
+      "dateLabel": "9/13/2026, 8:09:14 PM - 9/13/2026, 8:41:34 PM",
+      "url": "https://Vyndael.github.io/Nite/?report=20260913-200914-u2py",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260830-200256-xfk8",
       "title": "Osprey Shark",
       "commanders": [
