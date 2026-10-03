@@ -1,8 +1,37 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20261002-221342-wxnt",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-10-03T02:13:42.000Z",
+      "dateEnd": "2026-10-03T02:35:54.721Z",
+      "dateLabel": "10/2/2026, 10:13:42 PM - 10/2/2026, 10:35:54 PM",
+      "url": "https://Vyndael.github.io/Nite/?report=20261002-221342-wxnt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 44,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 18
+      }
+    },
     {
       "id": "20260920-212231-fm7o",
       "title": "Get Mesmorized",
