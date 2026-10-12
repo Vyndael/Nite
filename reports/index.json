@@ -1,9 +1,37 @@
 {
   "colorPalette": "electric-blue",
-  "axiTheme": "default",
+  "axiTheme": "flat",
   "glass": false,
   "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20261011-200429-axm5",
+      "title": "Osprey Shark",
+      "commanders": [
+        "Osprey Shark"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-10-12T00:04:29.000Z",
+      "dateEnd": "2026-10-12T00:35:11.930Z",
+      "dateLabel": "10/11/2026, 8:04:29 PM - 10/11/2026, 8:35:11 PM",
+      "url": "https://Vyndael.github.io/Nite/?report=20261011-200429-axm5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 50,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 31
+      }
+    },
     {
       "id": "20261002-221342-wxnt",
       "title": "Get Mesmorized",
