@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261030-223716-eri9",
+      "title": "Plurps",
+      "commanders": [
+        "Plurps"
+      ],
+      "guild": {
+        "id": "5D7F8C82-E09D-4788-82F9-41506AA6A4DD",
+        "name": "Wait What How",
+        "tag": "Hek"
+      },
+      "dateStart": "2026-10-31T02:37:16.000Z",
+      "dateEnd": "2026-10-31T03:07:00.487Z",
+      "dateLabel": "10/30/2026, 10:37:16 PM - 10/30/2026, 11:07:00 PM",
+      "url": "https://Vyndael.github.io/Nite/?report=20261030-223716-eri9",
+      "publishedBy": "Vyndael",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261024-202430-fqoa",
       "title": "Osprey Shark",
       "commanders": [
